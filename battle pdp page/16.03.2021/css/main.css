@@ -1,0 +1,667 @@
+.navbar {
+  height: 119px; }
+  .navbar .container .kurslar {
+    width: 124px;
+    height: 44px;
+    border: 1px solid #E6E6E6;
+    filter: drop-shadow(0px 11px 14px rgba(0, 0, 0, 0.0339543));
+    padding-left: 23px;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 60px; }
+  .navbar .container .kirish p {
+    font-size: 16px;
+    line-height: 19px;
+    color: #2F2F2F;
+    margin-left: 14px; }
+
+main .container .chiziq {
+  width: 100%;
+  height: 1px;
+  border: 1px solid #979797;
+  margin-bottom: 50px; }
+main .container .row .col-4 .card {
+  border: 1px solid #979797; }
+  main .container .row .col-4 .card .card-header {
+    display: flex;
+    padding-top: 28px;
+    padding-left: 28px;
+    background-color: white; }
+    main .container .row .col-4 .card .card-header img {
+      width: 50px;
+      height: 50px; }
+    main .container .row .col-4 .card .card-header h5 {
+      margin-left: 15px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 17px;
+      color: #000000; }
+    main .container .row .col-4 .card .card-header p {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 14px;
+      color: #000000;
+      mix-blend-mode: normal;
+      opacity: 0.5;
+      margin-left: 15px; }
+  main .container .row .col-4 .card .card-body {
+    padding-left: 28px; }
+    main .container .row .col-4 .card .card-body h3 {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 25px;
+      line-height: 35px;
+      color: #2F2F2F;
+      margin-bottom: 19.33px; }
+    main .container .row .col-4 .card .card-body .soat {
+      display: flex;
+      align-items: center;
+      margin-right: 41.33px; }
+      main .container .row .col-4 .card .card-body .soat img {
+        width: 13.33px;
+        height: 13.33px;
+        margin-right: 9.33px; }
+      main .container .row .col-4 .card .card-body .soat p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        color: #2F2F2F;
+        mix-blend-mode: normal;
+        opacity: 0.77;
+        margin-bottom: 0; }
+    main .container .row .col-4 .card .card-body .dars {
+      display: flex;
+      align-items: center; }
+      main .container .row .col-4 .card .card-body .dars img {
+        width: 13.33px;
+        height: 13.33px;
+        margin-right: 9.33px; }
+      main .container .row .col-4 .card .card-body .dars p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        color: #2F2F2F;
+        mix-blend-mode: normal;
+        opacity: 0.77;
+        margin-bottom: 0; }
+main .container .row .col-4 .zvezd {
+  display: flex;
+  align-items: center;
+  margin-left: 28px;
+  margin-right: 28px;
+  margin-top: 25px; }
+  main .container .row .col-4 .zvezd p {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #2F2F2F;
+    margin-bottom: -3px;
+    margin-left: 5px;
+    margin-right: 11px; }
+  main .container .row .col-4 .zvezd .uchtarasm {
+    display: flex; }
+  main .container .row .col-4 .zvezd .like {
+    display: flex;
+    align-items: center;
+    margin-left: 58px; }
+    main .container .row .col-4 .zvezd .like h6 {
+      margin-bottom: 0;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 17px;
+      color: #00D77B;
+      margin-right: 13px; }
+  main .container .row .col-4 .zvezd .dislike {
+    display: flex;
+    align-items: center;
+    margin-left: 22px;
+    margin-right: 28px; }
+    main .container .row .col-4 .zvezd .dislike h6 {
+      margin-bottom: 0;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 17px;
+      color: #EB4E37;
+      margin-right: 13px; }
+main .container .row .col-4 .card .modul1 {
+  background-color: #F8F8FA;
+  padding-top: 16px;
+  padding-left: 28px;
+  margin-top: 31px; }
+  main .container .row .col-4 .card .modul1 .linya {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-top: 16px;
+    margin-bottom: 16px; }
+  main .container .row .col-4 .card .modul1 .linya2 {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-top: 16px; }
+main .container .row .col-4 .card .sotibolish {
+  width: 100%;
+  height: 60px;
+  background-color: #63C19C;
+  border: 0 solid;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 28px;
+  padding-right: 28px;
+  padding-top: 18px; }
+  main .container .row .col-4 .card .sotibolish h6 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF; }
+  main .container .row .col-4 .card .sotibolish p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF; }
+main .container .row .col-8 .yozuv {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #2F2F2F;
+  margin-top: 38px; }
+main .container .row .col-8 .kursdasturi {
+  margin-top: 64px; }
+  main .container .row .col-8 .kursdasturi h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000; }
+main .container .malumotlar a {
+  text-decoration: none;
+  color: gray; }
+main .container .malumotlar h3 {
+  text-decoration: none;
+  color: black; }
+
+.nav {
+  margin-bottom: 13px;
+  margin-top: 25px; }
+  .nav a {
+    color: darkgray; }
+  .nav .nav-item > .active {
+    color: black; }
+
+.tab-content .tab-pane:nth-child(1) {
+  position: relative; }
+  .tab-content .tab-pane:nth-child(1) .goya {
+    width: 80px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    left: 5px;
+    top: -15px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .tab-content .tab-pane:nth-child(1) .goya {
+        top: -55px; } }
+    @media (min-width: 576px) and (max-width: 767px) {
+      .tab-content .tab-pane:nth-child(1) .goya {
+        top: -55px; } }
+  .tab-content .tab-pane:nth-child(1) .card .card-body {
+    background-color: white;
+    padding-top: 30px; }
+    .tab-content .tab-pane:nth-child(1) .card .card-body .questions {
+      width: 480px;
+      height: 190px;
+      border-radius: 30px;
+      border: 1px solid #E6E6E6;
+      margin-left: 90px;
+      padding: 24px 25px;
+      position: relative; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .questions {
+          width: 360px;
+          margin-left: 40px; } }
+      @media (min-width: 576px) and (max-width: 767px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .questions {
+          width: 100%;
+          margin-left: 0; } }
+      @media (max-width: 576px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .questions {
+          width: 100%;
+          margin-left: 0; } }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .questions .pdp {
+        background-color: #F8F8FA;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 5px;
+        position: absolute;
+        bottom: 10px;
+        right: -15px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .questions p {
+        font-size: 12px;
+        line-height: 21px;
+        margin-bottom: 22px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .questions .index {
+        position: absolute;
+        left: 5px;
+        right: 0;
+        top: 20px;
+        bottom: 0; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .questions .index1 {
+        position: absolute;
+        left: 5px;
+        right: 0;
+        top: 20px;
+        bottom: 0; }
+    .tab-content .tab-pane:nth-child(1) .card .card-body .befor {
+      margin-left: 460px;
+      margin-top: 12px; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .befor {
+          margin-left: 290px; } }
+      @media (min-width: 576px) and (max-width: 767px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .befor {
+          margin-left: 300px; } }
+      @media (max-width: 576px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .befor {
+          margin-left: 380px; } }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .befor h3 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        opacity: 0.4;
+        margin-right: 10px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .befor h4 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        opacity: 0.4;
+        position: relative;
+        margin-left: 10px; }
+        .tab-content .tab-pane:nth-child(1) .card .card-body .befor h4 .before {
+          width: 1px;
+          height: 10px;
+          background-color: #2F2F2F;
+          position: absolute;
+          top: 4px;
+          left: -10px; }
+    .tab-content .tab-pane:nth-child(1) .card .card-body .boy {
+      width: 500px;
+      height: 60px;
+      background: #F8F8FA;
+      border-radius: 30px;
+      margin-left: 15px;
+      position: relative;
+      margin-top: 28px; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .boy {
+          width: 400px;
+          height: 70px;
+          border-radius: 40px; } }
+      @media (min-width: 576px) and (max-width: 767px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .boy {
+          width: 100%;
+          height: 70px;
+          margin-left: 0; } }
+      @media (max-width: 576px) {
+        .tab-content .tab-pane:nth-child(1) .card .card-body .boy {
+          width: 100%;
+          height: 70px;
+          margin-left: 0; } }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .boy p {
+        font-size: 12px;
+        line-height: 18px;
+        color: #2F2F2F;
+        padding: 10px 30px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .boy img:nth-child(2) {
+        position: absolute;
+        left: -15px;
+        bottom: 10px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .boy .check {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        right: -5px;
+        bottom: -5px;
+        background-color: white; }
+    .tab-content .tab-pane:nth-child(1) .card .card-body .befo {
+      margin-left: 55px;
+      margin-top: 12px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .befo h3 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        opacity: 0.4;
+        margin-right: 10px; }
+      .tab-content .tab-pane:nth-child(1) .card .card-body .befo h4 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        opacity: 0.4;
+        position: relative;
+        margin-left: 10px; }
+        .tab-content .tab-pane:nth-child(1) .card .card-body .befo h4 .before {
+          width: 1px;
+          height: 10px;
+          background-color: #2F2F2F;
+          position: absolute;
+          top: 4px;
+          left: -10px; }
+  .tab-content .tab-pane:nth-child(1) .card .card-footer .form-control {
+    background-color: #F7F7F7 !important; }
+.tab-content .tab-pane:nth-child(2) {
+  position: relative; }
+  .tab-content .tab-pane:nth-child(2) .goya1 {
+    width: 80px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    top: -15px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .tab-content .tab-pane:nth-child(2) .goya1 {
+        top: -55px; } }
+    @media (min-width: 576px) and (max-width: 767px) {
+      .tab-content .tab-pane:nth-child(2) .goya1 {
+        top: -55px; } }
+  .tab-content .tab-pane:nth-child(2) .card {
+    height: 460px; }
+    .tab-content .tab-pane:nth-child(2) .card .check2 {
+      width: 37px;
+      height: 59px;
+      border-radius: 20px;
+      background-color: #63C19C; }
+      .tab-content .tab-pane:nth-child(2) .card .check2 p {
+        font-size: 15px;
+        line-height: 16px;
+        color: #FFFFFF;
+        margin-bottom: 0;
+        margin-left: 15px;
+        margin-top: 10px; }
+      .tab-content .tab-pane:nth-child(2) .card .check2 span {
+        margin-left: 10px;
+        margin-top: 6px; }
+    .tab-content .tab-pane:nth-child(2) .card .error {
+      width: 37px;
+      height: 59px;
+      border-radius: 20px;
+      border: 1px solid #FFB685;
+      margin-left: 20px;
+      margin-right: 20px; }
+      .tab-content .tab-pane:nth-child(2) .card .error h4 {
+        font-size: 15px;
+        line-height: 16px;
+        color: #FFB685;
+        margin-bottom: 0;
+        margin-left: 13px;
+        margin-top: 10px; }
+      .tab-content .tab-pane:nth-child(2) .card .error img {
+        background-color: white;
+        margin-left: 10px;
+        margin-bottom: 10px; }
+    .tab-content .tab-pane:nth-child(2) .card .son {
+      width: 37px;
+      height: 59px;
+      border-radius: 20px;
+      border: 1px solid #E6E6E6;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .tab-content .tab-pane:nth-child(2) .card .son h5 {
+        font-size: 15px;
+        line-height: 16px;
+        color: #2E2F2F; }
+    .tab-content .tab-pane:nth-child(2) .card .son2 {
+      width: 37px;
+      height: 37px;
+      background-color: #F8F8FA;
+      border-radius: 50%;
+      margin-right: 20px; }
+      .tab-content .tab-pane:nth-child(2) .card .son2 p {
+        font-size: 15px;
+        line-height: 16px;
+        color: #2E2F2F; }
+    .tab-content .tab-pane:nth-child(2) .card h6 {
+      font-size: 14px;
+      line-height: 16px; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .tab-content .tab-pane:nth-child(2) .card h6 {
+          font-size: 10px;
+          line-height: 14px; } }
+      @media (min-width: 576px) and (max-width: 767px) {
+        .tab-content .tab-pane:nth-child(2) .card h6 {
+          font-size: 10px;
+          line-height: 14px; } }
+      @media (max-width: 576px) {
+        .tab-content .tab-pane:nth-child(2) .card h6 {
+          font-size: 12px;
+          line-height: 14px; } }
+    .tab-content .tab-pane:nth-child(2) .card .dars {
+      width: 78px;
+      height: 61px;
+      border-radius: 10px;
+      background: #F0F0F0;
+      margin-right: 12px;
+      margin-top: 18px; }
+      .tab-content .tab-pane:nth-child(2) .card .dars span {
+        margin-left: 30px;
+        margin-top: 10px; }
+      .tab-content .tab-pane:nth-child(2) .card .dars h3 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        text-align: center; }
+    .tab-content .tab-pane:nth-child(2) .card .line2 {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 1px;
+      background-color: darkgray;
+      margin-top: 19px;
+      margin-bottom: 19px; }
+    .tab-content .tab-pane:nth-child(2) .card .boy {
+      width: 500px;
+      height: 60px;
+      background: #F8F8FA;
+      border-radius: 30px;
+      position: relative;
+      margin-top: 28px; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .tab-content .tab-pane:nth-child(2) .card .boy {
+          width: 400px;
+          height: 70px;
+          border-radius: 40px; } }
+      @media (min-width: 576px) and (max-width: 767px) {
+        .tab-content .tab-pane:nth-child(2) .card .boy {
+          width: 100%;
+          height: 70px;
+          border-radius: 40px; } }
+      .tab-content .tab-pane:nth-child(2) .card .boy p {
+        font-size: 12px;
+        line-height: 18px;
+        color: #2F2F2F;
+        padding: 10px 30px; }
+      .tab-content .tab-pane:nth-child(2) .card .boy img:nth-child(2) {
+        position: absolute;
+        left: -15px;
+        bottom: 10px; }
+      .tab-content .tab-pane:nth-child(2) .card .boy .check {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        right: -5px;
+        bottom: -5px;
+        background-color: white; }
+    .tab-content .tab-pane:nth-child(2) .card .befo {
+      margin-left: 40px;
+      margin-top: 12px; }
+      .tab-content .tab-pane:nth-child(2) .card .befo h3 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        opacity: 0.4;
+        margin-right: 10px; }
+      .tab-content .tab-pane:nth-child(2) .card .befo h4 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        opacity: 0.4;
+        position: relative;
+        margin-left: 10px; }
+        .tab-content .tab-pane:nth-child(2) .card .befo h4 .before {
+          width: 1px;
+          height: 10px;
+          background-color: #2F2F2F;
+          position: absolute;
+          top: 4px;
+          left: -10px; }
+    .tab-content .tab-pane:nth-child(2) .card .card-footer .form-control {
+      background-color: #F7F7F7 !important; }
+.tab-content .tab-pane:nth-child(3) {
+  position: relative; }
+  .tab-content .tab-pane:nth-child(3) .goya2 {
+    width: 90px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    left: 190px;
+    top: -15px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .tab-content .tab-pane:nth-child(3) .goya2 {
+        top: -55px; } }
+    @media (min-width: 576px) and (max-width: 767px) {
+      .tab-content .tab-pane:nth-child(3) .goya2 {
+        top: -55px; } }
+  .tab-content .tab-pane:nth-child(3) .card {
+    height: 460px; }
+    .tab-content .tab-pane:nth-child(3) .card p {
+      font-size: 16px;
+      line-height: 24px; }
+    .tab-content .tab-pane:nth-child(3) .card .ppt {
+      padding: 10px 15px;
+      width: 450px;
+      height: 35px;
+      background: #F0F0F0;
+      border-radius: 10px;
+      margin-top: 15px; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .tab-content .tab-pane:nth-child(3) .card .ppt {
+          width: 100%; } }
+      @media (min-width: 576px) and (max-width: 767px) {
+        .tab-content .tab-pane:nth-child(3) .card .ppt {
+          width: 100%; } }
+      .tab-content .tab-pane:nth-child(3) .card .ppt h5 {
+        font-size: 12px;
+        line-height: 16px;
+        color: #2F2F2F;
+        margin-left: 16px; }
+        @media (min-width: 767px) and (max-width: 992px) {
+          .tab-content .tab-pane:nth-child(3) .card .ppt h5 {
+            font-size: 11px; } }
+        @media (min-width: 576px) and (max-width: 767px) {
+          .tab-content .tab-pane:nth-child(3) .card .ppt h5 {
+            font-size: 11px; } }
+    .tab-content .tab-pane:nth-child(3) .card .line2 {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 1px;
+      background-color: darkgray;
+      margin-top: 30px;
+      margin-bottom: 30px; }
+    .tab-content .tab-pane:nth-child(3) .card p:nth-child(4) {
+      margin-top: 50px; }
+
+.panel-group {
+  margin-top: 11px; }
+  .panel-group .panel .panel-heading {
+    padding: 21px 26px;
+    margin-top: 10px; }
+    .panel-group .panel .panel-heading h2 {
+      font-size: 25px;
+      line-height: 25px;
+      color: #000000;
+      margin-right: 23px; }
+    .panel-group .panel .panel-heading h3 {
+      font-size: 15px;
+      line-height: 20px;
+      color: black; }
+    .panel-group .panel .panel-heading p {
+      font-size: 16px;
+      line-height: 22px;
+      color: #000000; }
+      @media (min-width: 767px) and (max-width: 992px) {
+        .panel-group .panel .panel-heading p {
+          font-size: 14px;
+          line-height: 20px; } }
+    .panel-group .panel .panel-heading img {
+      margin-left: auto; }
+  .panel-group .panel .panel-collapse .panel-body .border {
+    padding: 21px 12px;
+    position: relative; }
+  .panel-group .panel .panel-collapse .panel-body .span {
+    margin-right: 10px; }
+  .panel-group .panel .panel-collapse .panel-body .page31 {
+    margin-right: 15px;
+    margin-left: 13px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .panel-group .panel .panel-collapse .panel-body .page31 {
+        margin-right: 5px;
+        margin-left: 5px; } }
+  .panel-group .panel .panel-collapse .panel-body .eye {
+    margin-left: 10px; }
+  .panel-group .panel .panel-collapse .panel-body .eye1 {
+    margin-left: 10px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .panel-group .panel .panel-collapse .panel-body .eye1 {
+        margin-left: 0;
+        margin-right: 10px; } }
+  .panel-group .panel .panel-collapse .panel-body .youtube {
+    position: absolute;
+    left: 55px;
+    top: 30px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .panel-group .panel .panel-collapse .panel-body .youtube {
+        left: 45px; } }
+  .panel-group .panel .panel-collapse .panel-body .youtube2 {
+    margin-left: 10px;
+    background-color: transparent;
+    width: 26px;
+    height: 18px; }
+  .panel-group .panel .panel-collapse .panel-body p {
+    font-size: 10px;
+    line-height: 12px;
+    color: black; }
+  .panel-group .panel .panel-collapse .panel-body h4 {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 13px; }
+    @media (min-width: 767px) and (max-width: 992px) {
+      .panel-group .panel .panel-collapse .panel-body h4 {
+        font-size: 10px;
+        line-height: 14px; } }
+  .panel-group .panel .panel-collapse .panel-body h5 {
+    font-size: 14px;
+    line-height: 18px;
+    color: black; }
+
+/*# sourceMappingURL=main.css.map */

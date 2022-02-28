@@ -1,0 +1,281 @@
+body {
+  background-color: #F8F8FA; }
+  @media (max-width: 576px) {
+    body .navbar {
+      height: 25%; }
+      body .navbar .second {
+        display: none; }
+      body .navbar .three {
+        margin-top: 10px; }
+        body .navbar .three .two {
+          width: 45%;
+          flex-wrap: wrap; }
+          body .navbar .three .two a {
+            width: 100%; }
+            body .navbar .three .two a p {
+              width: 100%;
+              font-size: 10px; }
+            body .navbar .three .two a img {
+              margin-left: 20%; } }
+  @media (min-width: 576px) and (max-width: 1550px) {
+    body .navbar .second {
+      display: flex;
+      margin-left: auto; }
+    body .navbar .three {
+      display: none; } }
+  @media (max-width: 576px) {
+    body .navbar .brand {
+      width: 100%;
+      justify-content: space-between;
+      align-items: center; }
+      body .navbar .brand a {
+        width: 35%;
+        padding: 0; }
+        body .navbar .brand a img {
+          width: 100%;
+          height: 40px;
+          padding: 0; } }
+  body .navbar .brand .btn {
+    height: 40px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600; }
+    @media (max-width: 576px) {
+      body .navbar .brand .btn {
+        width: 40%;
+        font-size: 10px; }
+        body .navbar .brand .btn img {
+          width: 10px; } }
+  body .navbar .brand a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 600; }
+  body .navbar .brand .abonent {
+    width: 40px;
+    height: 40px; }
+  body .navbar .brand .bell {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #F8F8FA; }
+    body .navbar .brand .bell img {
+      width: 70%; }
+  @media (max-width: 576px) {
+    body .navbar .row2 {
+      justify-content: center;
+      margin: -0px;
+      padding: -0px; }
+      body .navbar .row2 .h2 {
+        display: none; }
+      body .navbar .row2 .h4 {
+        display: none; } }
+  @media (min-width: 992px) and (max-width: 1200px) {
+    body .navbar .row2 h4 {
+      width: 30%;
+      margin-left: 20%;
+      text-align: center; } }
+  body .navbar .row2 h4 {
+    margin-left: 10%;
+    position: relative; }
+    body .navbar .row2 h4 .h4::after {
+      content: '';
+      width: 0;
+      position: absolute;
+      left: 2px;
+      bottom: 0;
+      background-color: #000000;
+      transition: all 0.5s linear; }
+    body .navbar .row2 h4 .h4:hover::after {
+      width: 100%;
+      height: 3px;
+      z-index: 2; }
+    body .navbar .row2 h4 .h4:focus::after {
+      width: 100%;
+      height: 3px; }
+  body .navbar .row2 .h2 {
+    position: relative; }
+    body .navbar .row2 .h2::after {
+      content: '';
+      width: 0;
+      position: absolute;
+      left: 2px;
+      bottom: 0;
+      background-color: #000000;
+      transition: all 0.5s linear; }
+    body .navbar .row2 .h2:hover::after {
+      width: 100%;
+      height: 3px; }
+    body .navbar .row2 .h2:focus::after {
+      width: 100%;
+      height: 3px; }
+  @media (max-width: 776px) {
+    body main {
+      margin-top: -0px; }
+      body main .container {
+        padding: -0px; }
+      body main .row {
+        width: 90%;
+        padding: -0px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 5%;
+        margin-top: 10px; }
+        body main .row .col {
+          display: none; }
+        body main .row .card {
+          width: 100%; }
+          body main .row .card .btn {
+            width: 80%;
+            margin: -0px;
+            margin-left: 10%;
+            margin-bottom: 10px; }
+        body main .row .add {
+          width: 100%;
+          margin-top: 10px;
+          padding: 10%; }
+          body main .row .add .btn {
+            border: 1px solid #d3d9df;
+            box-shadow: 0 0 5px #F8F8FA;
+            background-color: #63C19C;
+            color: #Ffffff; } }
+  @media (min-width: 776px) and (max-width: 920px) {
+    body main .container {
+      width: 100%; }
+      body main .container .row {
+        width: 100%;
+        padding: -0px;
+        margin: -0px; }
+        body main .container .row .col {
+          display: none; }
+        body main .container .row .card {
+          width: 40%; }
+          body main .container .row .card h5 {
+            font-size: 16px; }
+        body main .container .row .add {
+          width: 55%;
+          margin-left: 5%;
+          padding: 5%; }
+          body main .container .row .add .btn {
+            border: 1px solid #d3d9df;
+            box-shadow: 0 0 5px #F8F8FA;
+            background-color: #63C19C;
+            color: #Ffffff; } }
+  @media (min-width: 920px) and (max-width: 1200px) {
+    body main .container {
+      width: 100%;
+      padding: -0px; }
+      body main .container .row {
+        width: 100%;
+        padding: -0px;
+        margin: -0px; }
+        body main .container .row .col {
+          display: none; }
+        body main .container .row .add {
+          width: 60%;
+          margin-left: 5%;
+          padding: 5%; }
+          body main .container .row .add .btn {
+            border: 1px solid #d3d9df;
+            box-shadow: 0 0 5px #F8F8FA;
+            background-color: #63C19C;
+            color: #Ffffff; }
+        body main .container .row .card {
+          width: 35%; }
+          body main .container .row .card .btn {
+            width: 80%;
+            margin-left: 10%;
+            font-size: 18px; }
+          body main .container .row .card .black p {
+            font-size: 15px;
+            margin: 0; } }
+  @media (min-width: 1200px) and (max-width: 15000px) {
+    body main .add {
+      display: none; } }
+  body main .card {
+    width: 25%;
+    height: 75%; }
+    body main .card .black {
+      width: 50%;
+      margin: 20px auto;
+      position: relative; }
+      body main .card .black .user {
+        width: 100%; }
+      body main .card .black .colorit {
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.51);
+        position: absolute;
+        top: 0;
+        left: 0; }
+        body main .card .black .colorit img {
+          width: 15%;
+          margin-top: 35%;
+          margin-left: 42.5%; }
+        body main .card .black .colorit p {
+          margin: 5px 20%;
+          font-size: 16px; }
+    body main .card p {
+      font-size: 17px; }
+    body main .card .settings {
+      width: 10%;
+      position: absolute;
+      top: 20px;
+      right: 20px; }
+    body main .card h4 {
+      font-weight: 700; }
+    body main .card .line {
+      width: 100%;
+      height: 2px;
+      background-color: #F8F8FA; }
+    body main .card .btn {
+      width: 40%;
+      margin-left: 30%;
+      background-color: #63C19C; }
+  body main .col {
+    width: 70%;
+    margin-left: 5%;
+    padding: 30px 40px; }
+    body main .col .form-group {
+      width: 45%; }
+      body main .col .form-group label {
+        margin-top: 20px; }
+      body main .col .form-group input {
+        height: 50px; }
+      body main .col .form-group .label {
+        margin-top: 12%; }
+      body main .col .form-group p {
+        margin-top: 60px; }
+    body main .col .line {
+      width: 100%;
+      height: 2px;
+      background-color: #F8F8FA;
+      margin-top: 50px; }
+    body main .col h3 {
+      margin-top: 40px; }
+    body main .col .btn {
+      margin-left: 5px;
+      border: 1px solid #d3d9df;
+      box-shadow: 0 0 5px #F8F8FA; }
+      body main .col .btn:hover {
+        cursor: pointer;
+        background-color: #63C19C;
+        color: #Ffffff; }
+  body .foot {
+    margin-top: 25px; }
+    @media (min-width: 776px) and (max-width: 1500px) {
+      body .foot {
+        display: none; } }
+    @media (max-width: 776px) {
+      body .foot .btn {
+        width: 80%;
+        margin-top: 10px;
+        margin-left: 10%;
+        background-color: #63C19C; } }
+  body footer {
+    margin-top: 150px;
+    margin-bottom: 50px; }
+    @media (max-width: 776px) {
+      body footer {
+        display: none; } }
+
+/*# sourceMappingURL=main.css.map */
